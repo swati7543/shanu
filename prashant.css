@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sona{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-size: 80px;
+    font-weight: bolder;
+    padding-top: 8rem;
+    float: right;
+    margin: 90px;
+   
+}
+
+.header{
+    background: rgb(51, 61, 197);
+    height: 700px;
+  
+}
+a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    padding: 90px;
+    font-size: 80px;
+    font-weight: bolder;
+    padding-top: 8rem;
+    float: left;
+    margin: 90px;
+}
+.babu{
+    width:400px;
+    height:300px;
+   border: 6px solid rgb(41, 30, 30);
+    display: block;
+    padding: none;
+    margin: none;
+}
+
+.sanu{ 
+    width: 400px;
+    height: 300px;
+  
+ } 
+ 
+
+a.link:hover{
+    color: rgb(0, 132, 255);
+  
+}
+
+
+   
+
+.img{
+    width: 900px;
+    height: 700px;
+}
+.li{
+    color: white;
+}
+
+.my-work{
+    width: 50%;
+    height: 900px;
+    box-sizing: border-box;
+    border: 4px solid black;
+}
+
+
+
+

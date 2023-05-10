@@ -1,0 +1,42 @@
+*{
+    
+    margin: 5px;
+
+}
+.container{
+    width: 700px;
+    height: 900px;
+    margin-left: 90px;
+    border: 5PX solid rgba(21, 22, 20, 0.226);
+   padding: 30px;
+   
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    margin-right: 14%;
+}
+.sona{
+     width:610px ; 
+    height: 30px;
+    border-bottom: 2px solid rgb(105, 90, 90);
+}
+.pk{
+    width: 120px;
+    height: 130px;
+    float: right;
+    text-align: right;
+    margin-right:24%;
+}
+.K{
+    margin: 20%;
+    
+}
+h3{
+    text-decoration: underline;
+}
+img{
+    width: 120px;
+    height: 130px;
+    border: 3px solid rgb(221, 207, 219);
+}
